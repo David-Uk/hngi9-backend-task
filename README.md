@@ -6,4 +6,6 @@ Install Node.js from the URL
 
 Open a command line interface in the root folder
 
+Run npm install
+
 Run node app.js
